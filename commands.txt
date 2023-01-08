@@ -1,0 +1,49 @@
+git --version
+git version 2.38.1.windows.1
+
+
+
+ git config --global user.name "Doaa Ismail"
+ git config --global user.email "doaaismail7398@gmail.com"
+ 
+cd "Path"
+
+git init 
+.git
+
+
+create manual main file 
+
+git status
+
+git add main.py >>>> Stage Area
+
+git status
+
+git commit -m "Message ... Creating Main file" >>>>> commit by me 
+
+
+git add --all
+
+git log
+
+
+
+New Branch: 
+
+git checkout -b new_feature 
+
+git checkout master
+
+git merge new_feature
+
+_________________________________________________________________________________________
+Create git repository on github:
+
+git remote add origin https://github.com/Doaa-Ismail/New_Git_Project_Epsilon-.git 
+
+git remote -v 		(awal mara lama 3aiza arf4 code)
+
+git branch -M main 	(awal mara lama 3aiza arf3 code)
+
+git push -u origin main (-u awal mara bs lakn b3d keda push origin main)
